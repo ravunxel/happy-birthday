@@ -147,12 +147,6 @@ body {
   left: 30%;
 }
 
-.eight img {
-  display: inline-block;
-  max-width: 100%;
-  height: auto;
-}
-
 .wish h5 {
   font-weight: lighter;
   font-size: 2rem;
@@ -228,7 +222,13 @@ body {
   .wish h5 {
     font-size: 1.4rem;
   }
-
+  
+  .eight img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+  
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
